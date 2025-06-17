@@ -28,3 +28,23 @@ A simple, menu-driven **Library Management System** built using **core Python** 
 
 ## 🗂️ Project Structure
 
+📁 Library-Management-System
+│
+├── books.txt # Stores book data
+├── users.txt # Stores user data
+├── main.py # Main program file (run this)
+
+
+
+---
+
+## ▶️ How to Run
+
+1. Make sure you have Python installed.
+2. Open terminal or command prompt.
+3. Run:
+
+```bash
+python main.py
+
+
